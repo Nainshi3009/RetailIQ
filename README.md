@@ -34,6 +34,31 @@ overstating causality.
 - Profit Leak Detective: evidence-backed peer comparisons, a robust anomaly
   view, and an explicitly hypothetical discount simulator.
 
+## Dashboard Preview
+
+The screenshots below are genuine views of the RetailIQ Streamlit dashboard.
+
+### Executive Overview
+
+Filtered sales, profit, regional, category, customer-segment, and shipping-mode
+performance.
+
+![RetailIQ Executive Overview](Screenshot%20(2383).png)
+
+### Advanced Analytics
+
+Heatmaps, product hierarchy analysis, discount/product profitability, and sales
+concentration views.
+
+![RetailIQ Advanced Analytics](Screenshot%20(2386).png)
+
+### Profit Leak Detective
+
+Peer-cell margin comparisons and robust anomaly scoring for
+investigation-focused analysis.
+
+![RetailIQ Profit Leak Detective](Screenshot%20(2390).png)
+
 ## Technology stack
 
 | Technology | Use |
@@ -224,16 +249,6 @@ run and are not a guarantee about future environments or data:
 - **Discount scenarios** hold quantity, list prices, product mix, and unit
   costs constant. They are mechanical estimates under stated assumptions, not
   forecasts or causal estimates.
-
-## Screenshots
-
-No screenshots are included yet. To add portfolio images, run the dashboard
-locally, select the desired tab and filter state, capture genuine screenshots
-at a readable desktop size, and save the original captures under
-`docs/screenshots/`. Use names such as `executive-overview.png`,
-`advanced-analytics.png`, and `profit-leak-detective.png`; then add standard
-Markdown image links here. Do not draw charts, edit values, or present
-mockups as screenshots of the running application.
 
 ## Limitations and future enhancements
 
